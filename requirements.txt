@@ -46,6 +46,7 @@ numpy==2.4.6
 orjson==3.11.9
 ormsgpack==1.12.2
 packaging==26.2
+pydantic-settings
 pandas==3.0.3
 pyasn1==0.6.3
 pyasn1_modules==0.4.2
